@@ -1,0 +1,6 @@
+<INICIO>
+1. Obtener datos de fuente origen
+2. Obtener ventas del día
+	2.1.  Filtrar venta del día x producto ('iPhone', 'iPad' , 'macbook')
+3. Mostrar detalle de ventas de día x producto
+<FIN>
